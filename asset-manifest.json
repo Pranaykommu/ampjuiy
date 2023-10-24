@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.bbdc6ea7.chunk.css",
-    "main.js": "/static/js/main.53717a4c.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.d3517096.js",
+    "main.js": "/static/js/main.c78e315a.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.4fc643d8.js",
     "static/css/2.cfea54c4.chunk.css": "/static/css/2.cfea54c4.chunk.css",
-    "static/js/2.b5df9986.chunk.js": "/static/js/2.b5df9986.chunk.js",
-    "static/js/3.4743d728.chunk.js": "/static/js/3.4743d728.chunk.js",
+    "static/js/2.46a36fbc.chunk.js": "/static/js/2.46a36fbc.chunk.js",
+    "static/js/3.b87a9283.chunk.js": "/static/js/3.b87a9283.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.b5df9986.chunk.js.LICENSE.txt": "/static/js/2.b5df9986.chunk.js.LICENSE.txt",
+    "static/js/2.46a36fbc.chunk.js.LICENSE.txt": "/static/js/2.46a36fbc.chunk.js.LICENSE.txt",
     "static/media/juiyloader.4e295c6f.gif": "/static/media/juiyloader.4e295c6f.gif",
     "static/media/index.css": "/static/media/vazir-all-400-normal.f79ac166.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3517096.js",
+    "static/js/runtime-main.4fc643d8.js",
     "static/css/2.cfea54c4.chunk.css",
-    "static/js/2.b5df9986.chunk.js",
+    "static/js/2.46a36fbc.chunk.js",
     "static/css/main.bbdc6ea7.chunk.css",
-    "static/js/main.53717a4c.chunk.js"
+    "static/js/main.c78e315a.chunk.js"
   ]
 }
