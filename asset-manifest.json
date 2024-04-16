@@ -1,21 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.bbdc6ea7.chunk.css",
-    "main.js": "/static/js/main.e1b2589f.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.4fc643d8.js",
+    "main.js": "/static/js/main.71f9acaf.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.0d96fdb1.js",
     "static/css/2.cfea54c4.chunk.css": "/static/css/2.cfea54c4.chunk.css",
-    "static/js/2.c47dfdaf.chunk.js": "/static/js/2.c47dfdaf.chunk.js",
-    "static/js/3.b87a9283.chunk.js": "/static/js/3.b87a9283.chunk.js",
+    "static/js/2.8b807a20.chunk.js": "/static/js/2.8b807a20.chunk.js",
+    "static/js/3.d7c02621.chunk.js": "/static/js/3.d7c02621.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.c47dfdaf.chunk.js.LICENSE.txt": "/static/js/2.c47dfdaf.chunk.js.LICENSE.txt",
+    "static/js/2.8b807a20.chunk.js.LICENSE.txt": "/static/js/2.8b807a20.chunk.js.LICENSE.txt",
+    "static/media/evowner1.816870ac.jpeg": "/static/media/evowner1.816870ac.jpeg",
+    "static/media/evowner2.4c0f602e.jpeg": "/static/media/evowner2.4c0f602e.jpeg",
+    "static/media/evowner3.6a898ce0.jpg": "/static/media/evowner3.6a898ce0.jpg",
+    "static/media/jelogotest1.9706faf3.png": "/static/media/jelogotest1.9706faf3.png",
+    "static/media/jelogotp.5bfa0d24.png": "/static/media/jelogotp.5bfa0d24.png",
     "static/media/juiyloader.4e295c6f.gif": "/static/media/juiyloader.4e295c6f.gif",
+    "static/media/pranithjet1.83ce1f77.jpg": "/static/media/pranithjet1.83ce1f77.jpg",
     "static/media/index.css": "/static/media/vazir-all-400-normal.f79ac166.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fc643d8.js",
+    "static/js/runtime-main.0d96fdb1.js",
     "static/css/2.cfea54c4.chunk.css",
-    "static/js/2.c47dfdaf.chunk.js",
+    "static/js/2.8b807a20.chunk.js",
     "static/css/main.bbdc6ea7.chunk.css",
-    "static/js/main.e1b2589f.chunk.js"
+    "static/js/main.71f9acaf.chunk.js"
   ]
 }
