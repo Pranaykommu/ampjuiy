@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.bbdc6ea7.chunk.css",
-    "main.js": "/static/js/main.5214b114.chunk.js",
+    "main.js": "/static/js/main.865e5f46.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.410ec9ab.js",
     "static/css/2.cfea54c4.chunk.css": "/static/css/2.cfea54c4.chunk.css",
-    "static/js/2.fec9febe.chunk.js": "/static/js/2.fec9febe.chunk.js",
+    "static/js/2.1190ffde.chunk.js": "/static/js/2.1190ffde.chunk.js",
     "static/js/3.dfa7d849.chunk.js": "/static/js/3.dfa7d849.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.fec9febe.chunk.js.LICENSE.txt": "/static/js/2.fec9febe.chunk.js.LICENSE.txt",
+    "static/js/2.1190ffde.chunk.js.LICENSE.txt": "/static/js/2.1190ffde.chunk.js.LICENSE.txt",
     "static/media/juiyloader.4e295c6f.gif": "/static/media/juiyloader.4e295c6f.gif",
     "static/media/index.css": "/static/media/vazir-all-400-normal.f79ac166.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.410ec9ab.js",
     "static/css/2.cfea54c4.chunk.css",
-    "static/js/2.fec9febe.chunk.js",
+    "static/js/2.1190ffde.chunk.js",
     "static/css/main.bbdc6ea7.chunk.css",
-    "static/js/main.5214b114.chunk.js"
+    "static/js/main.865e5f46.chunk.js"
   ]
 }
